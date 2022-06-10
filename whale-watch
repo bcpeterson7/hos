@@ -1,0 +1,94 @@
+<section id="whale-cruise-1" class="page-top-section">
+
+<div id="trip-advisor-excellence"><img id="ta-excellence-badge" src= https://hawaiioceansports.com/wp-content/uploads/2022/04/badge-of-excellence.png  alt="Trip Advisor Certificate of Excellence Hall of Fame" width="120" height="100" class="alignnone size-full wp-image-2579 no-border" /></div><div><img class="alignright size-full wp-image-513 bordered mt0 mb10" src="https://hawaiioceansports.com/wp-content/uploads/2015/06/spectacular-whale-watching-with-ocean-sports-whale-breach.jpg" alt="Spectacular Whale Watching with Ocean Sports - Whale Breach" width="473" height="447" /><span class="photo-credit small">© Michael Nolan</span></div>
+ <strong>Ocean Sports knows where the whales are...we've been operating Whale Watch Cruises on the Kohala Coast since 1981!</strong>
+<span class="theme-red strong">December 15 - March 31</span>
+<ul>	<li><strong>Trips Daily</strong> from within the National Marine Humpback Whale Sanctuary Waters</li>
+	<li><strong>Stable, Spacious and Comfortable Catamarans</strong></li>
+	<li><strong>Highly Trained Naturalists</strong></li>
+	<li><strong>Hydrophones</strong> to hear the Humpbacks’ Haunting Songs</li>
+	<li><strong> Best Guarantee on the Island!</strong> See a Humpback, or you can ride again for FREE on our Whale Watch Cruises till you do...or choose to upgrade to a <a href="https://hawaiioceansports.com/boat-cruises/snorkel-cruises/"> Snorkel Adventure Cruise</a> or<a href="https://hawaiioceansports.com/boat-cruises/sunset-sales/"> Pau Hana Sunset Cruise or Sail </a> for just the difference in fares! 
+	<li>We’re <strong>FAMILY FRIENDLY</strong>! Kids 6-12 ride for 1/2 price and Kids under 6 always ride for FREE! 
+             </ul>
+</section>
+
+<div id="wake-up-with-the-whales" class="clearboth anchor-point"></div>
+<section id="whale-cruise-2" class="page-middle-section white shadowed" style="margin-top: 40px;">
+<script type="text/javascript" src="https://www.hawaiifun.org/reservation/common/calendar_js.jsp?jsversion=20190315"></script>
+<script type="text/javascript" src="https://www.hawaiifun.org/reservation/external/functions.js?jsversion=20190315"></script>
+<h2 class="resp-reservation-title white shadowed" style="display: none;">Wake Up With the Whales!</h2>
+<img class="alignleft size-full wp-image-518 bordered" src="https://hawaiioceansports.com/wp-content/uploads/2015/06/whale-watching-cruise-to-the-best-locations.jpg" alt="Whale Watching Cruise to the Best Locations in Hawaii" width="701" height="498" />
+<h2 class="shadowed white">Wake Up With the Whales!</h2>
+8:00 - 9:30 AM
+<b>Adults - $115; Kids (6-12) $57.50; under 6 FREE</b> 
+(<i>Listed fares include ALL taxes and fees!</i>)
+Includes canned soft drinks and juices and individually wrapped breakfast snacks. Early Morning waters are generally the calmest of the day! Available most Mondays, Wednesdays and Fridays from Anaeho'omalu Bay at the Waikoloa Beach Resort.
+<div id="wake-up-with-the-whales-form" class="reservation-form right-form">
+<strong>Choose your Departure Location, then click on the calendar to see available dates.</strong><br>
+   <html><body>
+  <script type="text/javascript" src="https://www.hawaiifun.org/reservation/common/calendar_js.jsp?jsversion=20190315"></script>
+  <script type="text/javascript" src="https://www.hawaiifun.org/reservation/external/functions.js?jsversion=20190315"></script>
+  <form>
+ <select id="activity_g1328">
+    
+      <option value="2930">Anaeho'omalu Bay Departure</option>
+    
+      <option value="13682">Kawaihae Departure</option>
+    
+    </select>
+
+  Activity Date
+    <input id="date_g1328" onclick="calendar(document.getElementById('activity_g1328').value, 'date_g1328', false);" readOnly size="15">
+    <a onMouseOver="window.status='Date Picker';return true;" onMouseOut="window.status='';return true;" href="javascript:calendar(document.getElementById('activity_g1328').value, 'date_g1328', false);"> <img height="22" src="https://www.hawaiifun.org/reservation/company/show-calendar.gif" width="24" border="0"></a>
+
+      Adult <input type='text' id='guests_g1328_t1225' value='0' size='2'> Child <input type='text' id='guests_g1328_t1226' value='0' size='2'> Infants <input type='text' id='guests_g1328_t1243' value='0' size='2'>
+
+<p></p><input type="checkbox" id="cancellationpolicy_g1328" /><label for="cancellationpolicy_g1328">Cancellation Policy: If you need to cancel your reservation with us, please do so 24 hours prior to your scheduled activity to receive a full refund. If you need to cancel less than 24 hours prior, you'll be charged the full fare. Cancellations on our Catamaran cruises due to weather are at the sole discretion of the Captain.
+Cancellation terms for blocks or Exclusive Charters may vary as agreed. </label><p></p>
+
+       <input type="button" value="Check availability" onclick="if (!checkcancellation(document.getElementById('cancellationpolicy_g1328'))) return false; reservation('425', document.getElementById('activity_g1328').value, document.getElementById('date_g1328').value, '', 0.0);  addGuests(1225, document.getElementById('guests_g1328_t1225').value); addGuests(1226, document.getElementById('guests_g1328_t1226').value); addGuests(1243, document.getElementById('guests_g1328_t1243').value);       availability_popup(); return false;">
+
+ </form>
+</body></html>
+
+ 
+    
+</section><section id="whale-cruise-3" class="page-middle-section">
+<h2 class="resp-reservation-title" style="display: none;">Signature Whale Watch!</h2>
+<img class="alignright size-full wp-image-549 bordered" style="margin: 0px 0 20px 0px !important; clear: right;" src="https://hawaiioceansports.com/wp-content/uploads/2015/06/Whale-Watching-Up-Close-and-Personal-in-Hawaii.jpg" alt="Kohala-Kona Coast Best Hawaiian Whale Watching Cruises" width="650" height="408" />
+<img class="alignright size-full wp-image-4421 bordered" style="margin: 0px 0 20px 0px !important; clear: right;" src="https://hawaiioceansports.com/wp-content/uploads/2018/08/1C48019B-9046-45D6-B7E1-88C7C7CAA4DE9651B355-ADCE-4754-B388-03D4F703CDA9.jpg" alt="Humpback Looks at Ocean Sports Whale Watch Cruise" width="650" height="408" />
+<h2>Mid-Morning Whale Watch!</h2>
+9:30 - 11:00 AM
+<b>Adults - $115; Kids (6-12) $57.50; under 6 FREE </b>
+(<i>Listed fares include ALL taxes and fees!</i>) Includes canned soft drinks juices and individually wrapped snacks. Morning Light Makes for Great Photos! Available most Tuesdays, Thursdays and Saturdays.
+<strong>Choose your Departure Location, then click on the calendar to see available dates.</strong>
+<div id="signature-whales-form" class="reservation-form" style="float: unset; margin-top: -70px;">
+
+<html><body>
+  <script type="text/javascript" src="https://www.hawaiifun.org/reservation/common/calendar_js.jsp?jsversion=20190315"></script>
+  <script type="text/javascript" src="https://www.hawaiifun.org/reservation/external/functions.js?jsversion=20190315"></script>
+  <form>
+ <select id="activity_g1487">
+    
+      <option value="2920">Kawaihae Departure</option>
+    
+      <option value="13683">Anaeho'omalu Departure</option>
+    
+    </select>
+  Activity Date
+    <input id="date_g1487" onclick="calendar(document.getElementById('activity_g1487').value, 'date_g1487', false);" readOnly size="15">
+    <a onMouseOver="window.status='Date Picker';return true;" onMouseOut="window.status='';return true;" href="javascript:calendar(document.getElementById('activity_g1487').value, 'date_g1487', false);"> <img height="22" src="https://www.hawaiifun.org/reservation/company/show-calendar.gif" width="24" border="0"></a>
+
+      Adults <input type='text' id='guests_g1487_t1225' value='0' size='2'> Kids <input type='text' id='guests_g1487_t1226' value='0' size='2'> Infants <input type='text' id='guests_g1487_t1243' value='0' size='2'>
+
+<p></p><input type="checkbox" id="cancellationpolicy_g1487" /><label for="cancellationpolicy_g1487">Cancellation Policy: If you need to cancel your reservation with us, please do so 24 hours prior to your scheduled activity to receive a full refund. If you need to cancel less than 24 hours prior, you'll be charged the full fare. Cancellations on our Catamaran cruises due to weather are at the sole discretion of the Captain.
+Cancellation terms for blocks or Exclusive Charters may vary as agreed. </label><p></p>
+    <input type="button" value="Check availability" onclick="if (!checkcancellation(document.getElementById('cancellationpolicy_g1487'))) return false; reservation('425', document.getElementById('activity_g1487').value, document.getElementById('date_g1487').value, '', 0.0);  addGuests(1225, document.getElementById('guests_g1487_t1225').value); addGuests(1226, document.getElementById('guests_g1487_t1226').value); addGuests(1243, document.getElementById('guests_g1487_t1243').value);       availability_popup(); return false;">
+
+ </form>
+</body></html>
+
+
+
+<div class="clearboth mb30"></div>
+<span class="red">*</span>Ocean Sports is proud to follow the federal guidelines protecting the Humpbacks. We won't approach the whales closer than 100 yards or maneuver in ways that would alter their behaviors.
